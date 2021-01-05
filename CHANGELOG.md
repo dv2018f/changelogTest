@@ -1,9 +1,10 @@
-# 变更日志
+# v1.0.0
 
 
 
 ## Bug Fixes
-  - 修改nihao.txt文件内容 [517186b9](https://github.com:dv2018f/changelogTest/commit/517186b9d8e7d05f05f5cb2ae93ace7b38f0c83b) 
+  - 修改nihao.txt文件内容为哈哈 [be2a579e](https://github.com:dv2018f/changelogTest/commit/be2a579e01c8821c8e9e42698d95c0819096fd9d) 
+    - 修改nihao.txt文件内容 [517186b9](https://github.com:dv2018f/changelogTest/commit/517186b9d8e7d05f05f5cb2ae93ace7b38f0c83b) 
   
 
 
